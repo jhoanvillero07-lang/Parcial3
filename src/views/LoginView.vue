@@ -48,7 +48,7 @@ export default {
 <style scoped>
 .login-container {
 
-  background-image: url(""); 
+  background-image: url('../assets/fondoo.jpg'); 
   background-size: cover;
   background-position: center;
   min-height: 100vh;
